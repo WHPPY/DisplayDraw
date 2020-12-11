@@ -1,0 +1,40 @@
+﻿生成启动时间为 2020/12/9 12:25:35。
+     1>项目“C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\myQt2020\myQt2020\myQt2020.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Moc'ing myqt2020.h...
+         Uic'ing myqt2020.ui...
+         Moc'ing ScreenWidget.h...
+         Moc'ing form.h...
+         Rcc'ing myqt2020.qrc...
+         Uic'ing form.ui...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt form.cpp GeneratedFiles\Debug\moc_form.cpp GeneratedFiles\Debug\moc_myqt2020.cpp GeneratedFiles\Debug\moc_ScreenWidget.cpp GraphBase.cpp listdg.cpp main.cpp myqt2020.cpp ScreenWidget.cpp
+         form.cpp
+         moc_form.cpp
+         moc_myqt2020.cpp
+         moc_ScreenWidget.cpp
+         GraphBase.cpp
+         listdg.cpp
+         main.cpp
+         myqt2020.cpp
+         ScreenWidget.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_myqt2020.cpp
+         qrc_myqt2020.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\myQt2020\x64\Debug\\myQt2020.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\myQt2020\x64\Debug\myQt2020.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\myQt2020\x64\Debug\myQt2020.lib" /MACHINE:X64 x64\Debug\form.obj
+         x64\Debug\moc_form.obj
+         x64\Debug\moc_myqt2020.obj
+         x64\Debug\moc_ScreenWidget.obj
+         x64\Debug\qrc_myqt2020.obj
+         x64\Debug\GraphBase.obj
+         x64\Debug\listdg.obj
+         x64\Debug\main.obj
+         x64\Debug\myqt2020.obj
+         x64\Debug\ScreenWidget.obj
+         myQt2020.vcxproj -> C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\myQt2020\x64\Debug\myQt2020.exe
+     1>已完成生成项目“C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\myQt2020\myQt2020\myQt2020.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:18.21

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/myQt2020">
+        <file>images/bg.jpg</file>
+        <file>images/clear.png</file>
+        <file>images/exit.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/print.png</file>
+        <file>images/rotate.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/shear.png</file>
+        <file>images/tool.png</file>
+        <file>images/zoom-1.png</file>
+        <file>images/zoom-in.png</file>
+        <file>images/zoom-out.png</file>
+        <file>images/line.png</file>
+        <file>images/curve.png</file>
+        <file>images/pshowaxis.png</file>
+        <file>images/popen.png</file>
+        <file>images/back.png</file>
+        <file>images/front.png</file>
+    </qresource>
+</RCC>
